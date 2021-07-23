@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+}
+.online {
+    background-color: #3aa301;
+}
+.offline {
+    background-color: #94849c;
+}
